@@ -1,6 +1,6 @@
 {
   "name": "server-uploader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Uploader File To URL.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BOTCAHX/uploader-nodejs.git"
+    "url": "git+https://github.com/BOTCAHX/server-uploader.git"
   },
   "keywords": [
     "file-uploader",
