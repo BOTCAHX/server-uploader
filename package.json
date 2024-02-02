@@ -1,6 +1,6 @@
 {
   "name": "server-uploader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Uploader File To URL.",
   "main": "index.js",
   "scripts": {
